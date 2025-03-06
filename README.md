@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=besudev195&label=Profile%20views&color=0e75b6&style=flat" alt="besudev195" /> </p>
 
-- 🌱 I’m currently learning **React,TailWindCss,NextJs**
+- 🌱 I’m currently learning **{React}, {TailWindCss} ,{NextJs}**
 
 - 💬 Ask me about **html,css,js,pyhton,c++,java**
 
