@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Besufekad</h1>
-<h3 align="center"> I am ............ from Ethiopia and a computer science major</h3>
+<h3 align="center"> I am JUNIOR FRONTEND DEVELOPER from Ethiopia and a computer science major</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=besudev195&label=Profile%20views&color=0e75b6&style=flat" alt="besudev195" /> </p>
 
-- 🌱 I’m currently learning **{React}, {TailWindCss} ,{NextJs}**
+- 🌱 I’m currently learning **{TailWindCss} ,{NextJs}**
 
-- 💬 Ask me about **html,css,js,pyhton,c++,java**
+- 💬 Ask me about **html,css,js,React,pyhton,c++,java**
 
 - 📫 How to reach me **besufekadzenebe19@gmail.com**
 
