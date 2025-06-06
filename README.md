@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Frontend projects<br>I'm looking to collaborate on projects<br>I 'm currently learning NextJs, Backend <br>Fun fact I'm Aviation Lover
+👨‍🎨 I'm currently working on Frontend projects<br> 👨‍🏫I'm looking to collaborate on projects<br>I 'm currently learning NextJs, Backend <br> 🛩Fun fact I'm Aviation Lover
 
 
 ## 🌐 Socials:
