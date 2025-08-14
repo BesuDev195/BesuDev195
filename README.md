@@ -1,5 +1,6 @@
    ##  Hello, I'Am Besu Junior Frontend DEV and Intersted in Penetration Testing
-   https://www.freepik.com/premium-photo/security-hackers-breaching-defenses_197076414.htm
+
+
 
 
 ## 🌐 Socials:
