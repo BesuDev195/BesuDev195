@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web pentest**
 
-- 🌱 I’m currently learning **dart, Flutter, pyhton**
+- 🌱 I’m currently learning **Nodejs, Express, ReactNative**
 
 - 👯 I’m looking to collaborate on **Everywhere**
 
