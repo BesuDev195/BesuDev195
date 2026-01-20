@@ -1,9 +1,9 @@
-<h1 align="center">Hey, I'm Fullstack Dev and 🥷🏻Penetration Testing Nerd</h1>
+<h1 align="center">Random Dev and 🥷🏻Penetration Testing Nerd</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=besudev195&label=Profile%20views&color=0e75b6&style=flat" alt="besudev195" /> </p>
 
 - 🔭 I’m currently working on **Web pentest and dev projects**
 
-- 👯 I’m looking to collaborate on **Everywhere**
+- 👯 I’m looking to collaborate on **Pentesting projects**
 
 - 📫 How to reach me **besobelagit1921@gmail.com**
 
