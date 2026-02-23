@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Pentest,python.....**
 
-- 👯 I’m looking to collaborate on **everytime**
-
 - 📫 How to reach me **cyberbees19@gmail.com**
 
 - ⚡ Fun fact **Aviation Lover🛫**
